@@ -26,7 +26,6 @@
 - Update post page
 - Password Reset Page
 - Feed/Home page
-- User Profile Page
 - Search Results Page
 - Post Comment Page
 
